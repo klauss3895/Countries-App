@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.landing {
+    /* background-image: url("./countries.png"); */
+    background-image: url("https://www.countryreports.org/uGraphics/tempImages/selectBack.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 656px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

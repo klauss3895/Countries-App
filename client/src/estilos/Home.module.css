@@ -1,0 +1,66 @@
+
+.countriesGrid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 200px);
+    gap: 40px;
+    padding: 40px;
+    justify-content: center;
+}
+
+.search{
+    /* background-color:#e2e2a5; */
+    background-color: #5584AC;
+    display: flex;
+    color: black;
+    text-align: center;
+    padding: 30px;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 17px;
+    justify-content: space-between;
+}
+
+/* .selectAndButton {
+    float: left;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+} */
+
+.search a:hover {
+    background-color: #ddd;
+    color: black;
+
+}
+button{
+    /* background-color: #c7bb62; */
+    background-color: #95D1CC;
+    border-radius: 5px;
+    border:1px solid black;
+    padding: 8px 16px;
+    margin-left: 3px;
+    
+}
+
+select{
+    /* background-color:#c7bb62 ; */
+    background-color: #95D1CC;
+    border-radius: 5px;
+    border:1px solid black;
+    padding: 8px 16px;
+    margin-left: 3px;
+}
+/* .searchBar{
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+} */
+a{
+    color: black;
+}
+
