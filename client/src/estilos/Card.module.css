@@ -1,0 +1,29 @@
+.container{
+    margin: 15px;
+    color: black;
+}
+
+.countrieCard {
+    list-style: none;
+    font-size: 1.5rem;
+    text-align: center;
+}
+  
+.countrieImage {
+    border-radius: 10px;
+    background-color: azure;
+}
+
+.name{
+    max-width: 230px;
+    height: 56px;
+}
+
+.maxContainer{
+    color: black;
+}
+
+.create{
+    padding: 20px;
+    margin: 20px;
+}

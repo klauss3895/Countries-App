@@ -1,0 +1,12 @@
+.container{
+display: flex;
+}
+
+input{
+    height: 27px;
+    border-radius: 5px;
+}
+button{
+    height: 30px;
+}
+
