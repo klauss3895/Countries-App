@@ -10,22 +10,15 @@ Proyecto individual con instancia evaluativa en [ Soy Henry ](https://www.soyhen
 *  __PostgreSQL / Sequelize__ 
 *  
 ##  Vistas Previas
-<img src = '' </img> 
+
 </p> 
 <p align = 'izquierda'> 
-<img src = '' </img> 
-<img src = '' </img> 
+<img src = 'https://github.com/klauss3895/Countries-App/blob/main/images/landingPage.png' </img> 
 </p> 
 <p align = 'izquierda'> 
-<img src = '' </img> 
-<img src = '' </img> 
+<img src = 'https://github.com/klauss3895/Countries-App/blob/main/images/home.png' </img> 
 </p> 
 <p align = 'izquierda'> 
-<img src = '' </img> 
+<img src = 'https://github.com/klauss3895/Countries-App/blob/main/images/createActivity.png' </img> 
 </p> 
-<p align = 'izquierda'> 
-<img src = '' </img> 
-</p> 
-<p align = 'izquierda'> 
-<img src = '' </img> 
-</p> 
+
