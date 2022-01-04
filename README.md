@@ -3,8 +3,6 @@ Proyecto individual con instancia evaluativa en [ Soy Henry ](https://www.soyhen
 ## Tecnologias Utilizadas
 *  __Javascript__ 
 *  __React - Redux__ 
-*  __Ganchos__ 
-*  __Bootstrap__ 
 *  __Node.Js__ 
 *  __Express__ 
 *  __PostgreSQL / Sequelize__ 
